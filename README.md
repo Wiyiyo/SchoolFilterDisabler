@@ -1,6 +1,7 @@
 #Block School Filter List
 > [!NOTE]
-**It's STRONGLY recommended to fork this project and put your school's Zero-Trust website in your project**
+**It's STRONGLY recommended to fork this project and put your school's Zero-Trust website in your project.**
+**This ONLY Works at home, i havent tested it in school. (cuz i dont want to get in trouble :P)**
 
 > [!IMPORTANT]
 **The creator, @Wiyiyo, is not responsible for any trouble you got in school or work or whatever by using this BlockList.**
