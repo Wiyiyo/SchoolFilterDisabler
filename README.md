@@ -2,9 +2,9 @@
 > [!IMPORTANT]
 **The creator, @Wiyiyo, is not responsible for any trouble you got in school or work or whatever by using this BlockList.**
 **That is YOUR RESPONSIBILITY and pls comply with yo school or whatever places rules. :P**
-**Also, You must a basic understanding of how to find you Raspberry Pi**
-**IP Address in your network, if you dont know how find your**
-**Raspberry Pi IP Address, just [google it](https://letmegooglethat.com/?q=how+to+find+your+Raspberry+Pi+IP+Address) and find out.**
+**Also, You must a basic understanding of how to find your Raspberry Pi**
+**IP Address in your network, if you dont know how find**
+**your Raspberry Pi IP Address, just [google it](https://letmegooglethat.com/?q=how+to+find+your+Raspberry+Pi+IP+Address) and find out.**
 # Requirements
 Here is the requirements, you need...
 
