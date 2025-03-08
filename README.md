@@ -21,7 +21,7 @@ Here is the requirements, you need...
 
 So go to the Admin Panel in your Pi-hole Installation,
 go to "Domains on List" button
-when you are in Domain On List page, click on the Address Fill-In Box and put in "https://raw.githubusercontent.com/Wiyiyo/Schooladlist/refs/heads/main/BlockFilterList"
+when you are in Domain On List page, click on the Address Fill-In Box and put in "https://raw.githubusercontent.com/Wiyiyo/SchoolFilterDisabler/refs/heads/main/BlockFilterList"
 On the address bar and click "add blocklist"
 then on your Raspberry Pi Terminal
 type `pihole -g` or click the text that is highlighted in blue "online"
