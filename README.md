@@ -1,20 +1,19 @@
 #Block School Filter List
-> [!NOTE]
->** The creator, @Wiyiyo, is not responsible for any trouble you got in school or work or whatever by using this BlockList.
->** That is YOUR RESPONSIBILITY and pls comply with yo school or whatever places rules. :P
->** Also, You must a basic understanding of how to find you Raspberry Pi
->** IP Address in your network, if you dont know how find your
->** Raspberry Pi IP Address, just [google it](https://letmegooglethat.com/?q=how+to+find+your+Raspberry+Pi+IP+Address) and find out.
-# How to Install
-To install, you need...
-<details>
-<summary><b>Requirements (click to expand)</b></summary>
+> [!IMPORTANT]
+>**The creator, @Wiyiyo, is not responsible for any trouble you got in school or work or whatever by using this BlockList.
+>**That is YOUR RESPONSIBILITY and pls comply with yo school or whatever places rules. :P
+>**Also, You must a basic understanding of how to find you Raspberry Pi
+>**IP Address in your network, if you dont know how find your
+>**Raspberry Pi IP Address, just [google it](https://letmegooglethat.com/?q=how+to+find+your+Raspberry+Pi+IP+Address) and find out.
+# Requirements
+Here is the requirements, you need...
 
 * Raspberry Pi
 * [Pi-hole](https://pi-hole.net/) installed
 * Admin Panel (cuz i dont know how to do it in terminal :P)
 
-<details>
+
+# How to Install
 
 So go to the Admin Panel in your Pi-hole Installation,
 go to "Domains on List" button
